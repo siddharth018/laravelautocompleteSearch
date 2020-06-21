@@ -23,7 +23,7 @@ http://localhost:8000
 
 Watch Video: 
 
-<iframe width="966" height="543" src="https://www.youtube.com/embed/Xs_ohuTsdx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Everything Is AWESOME](https://i.ytimg.com/vi/Xs_ohuTsdx8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD-31X8Qe1tfe0fV_Ysd6qAXQx3VA)](https://youtu.be/Xs_ohuTsdx8 "Everything Is AWESOME")
 
 ## Youtube
 Join in youtube
