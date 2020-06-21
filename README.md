@@ -21,7 +21,7 @@ Last step: check from your
 
 http://localhost:8000
 
-
+Watch Video: https://www.youtube.com/watch?v=Xs_ohuTsdx8&ab_channel=Realprogrammer
 ## Youtube
 Join in youtube
 (https://www.youtube.com/channel/UCVSvNQjV5gwKIP9ZgaXSU1w?view_as=subscriber).
